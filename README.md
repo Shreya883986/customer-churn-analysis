@@ -269,7 +269,7 @@ Through this project, I learned:
 # Screenshots
 
 ## Power BI Dashboard
-
+![Dashboard](https://github.com/Shreya883986/customer-churn-analysis/blob/e0eeb0cf23f4453450ba671b719ad43773664020/2026-05-20.png)
 
 
 ---
