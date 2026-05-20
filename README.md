@@ -35,3 +35,5 @@ This project analyzes customer churn behavior using Python, Machine Learning, an
 - Python Notebook
 - Power BI Dashboard
 - Final Report
+
+By - Shreya Gupta 
